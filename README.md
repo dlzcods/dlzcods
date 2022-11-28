@@ -1,65 +1,45 @@
 
-<h1 align="center"><b>Hi , I'm Hafiz Abdiel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">I'm Hafiz Abdiel </b></h1>
 
+<h3 align="center"> Software Engineer Student from Purwokerto Central Java  </h3>
+
+<div align='center'>
+	
+![](https://komarev.com/ghpvc/?username=dlzcods&style=for-the-badge)
+	
+</div>
 <br>
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- Self Learner
-- A Junior Programmer
-- Software Engineering Student
-- Like to Learn New Thing
+- 💡 I'm a self learner
+- 🌱 I’m currently learning **Laravel, Java**
+- 📫 How to reach me [hafd324@gmail.com](mailto:hafd324d@gmail.com)
+- 📃 I like to learn new thing
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
+
+![Java](https://img.shields.io/badge/Java-FFFFFF.svg?style=for-the-badge&logo=java&logoColor=blue)
+![PHP](https://img.shields.io/badge/PHP%20-FFFFFF.svg?style=for-the-badge&logo=php&logoColor=blue)
+![Laravel](https://img.shields.io/badge/laravel-FFFFFF.svg?style=for-the-badge&logo=laravel&logoColor=blue)
+![VS Code](https://img.shields.io/badge/VS%20Code-FFFFFF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 <br>
-
-<p align="center">
-
-- **Languages**:
-    
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![Python](https://img.shields.io/badge/PHP%20-%2314354C.svg?style=for-the-badge&logo=php&logoColor=white)
-
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-FFFFFF.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=blue)
+![Sublime Text](https://img.shields.io/badge/sublime_text-FFFFFF.svg?style=for-the-badge&logo=sublime-text&logoColor=blue)
+![GitHub](https://img.shields.io/badge/github-FFFFFF.svg?style=for-the-badge&logo=github&logoColor=blue)
 <br>
-
-- **Softwares and Tools**:
-
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-    ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-  
-<br>
-
-- **Framework**:
-    
-    ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-
-</p>
+![Google](https://img.shields.io/badge/google-FFFFFF.svg?style=for-the-badge&logo=google&logoColor=blue)
+![Markdown](https://img.shields.io/badge/markdown-FFFFFF.svg?style=for-the-badge&logo=markdown&logoColor=blue)
+![Canva](https://img.shields.io/badge/Canva-FFFFFF.svg?style=for-the-badge&logo=Canva&logoColor=blue)
 
 <br>
 <br>
-
------
-
 <br>
 
 
@@ -79,35 +59,11 @@
 <br>
 <br>
 
------
 
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
 
-<ul>
-
-<li>
-<a href="https://twitter.com/dielz13" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  Hafiz Abdiel-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:hafd324d@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Hafiz Abdiel-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
@@ -115,7 +71,8 @@
 
 <div align='center'>
 
-
 Credit: [Hafiz Abdiel](https://github.com/dlzcods)
-
+	<br>
 Last Edited on: 28/11/2022
+
+</div>
