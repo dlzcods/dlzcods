@@ -44,10 +44,9 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 
 <div  style="display: flex; flex-wrap: wrap; justify-content: center;">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dlzcods&show_icons=true&theme=transparent" />
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dlzcods&show_icons=true&theme=default" />
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlzcods&layout=compact" />
 </div>
 
@@ -71,6 +70,6 @@
 
 Credit: [Hafiz Abdiel](https://github.com/dlzcods)
 	<br>
-Last Edited on: 28/11/2022
+Last Edited on: 08/03/2023
 
 </div>
