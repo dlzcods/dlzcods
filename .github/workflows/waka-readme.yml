@@ -13,13 +13,14 @@ jobs:
       - uses: miermontoto/waka-readme-stats@v5
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # following flags are required, only if this is not on
-          # profile readme, remove the leading `#` to use them
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # following flags are required, only if this is not on
+          # profile readme, remove the leading `#` to use them 
           SHOW_TITLE: true
           BLOCKS: ░▒▓█
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           SHOW_COMMIT: true
+          SHOW_LINES_OF_CODE: true
           LANG_COUNT: 10
