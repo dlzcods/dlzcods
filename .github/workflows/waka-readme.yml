@@ -7,10 +7,10 @@ on:
 
 jobs:
   update-readme:
-    name: Waka - Readme
+    name: Profile Readme Development Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@v0.1.8
+      - uses: anmol098/waka-readme-stats@V3
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # following flags are required, only if this is not on
