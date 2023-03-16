@@ -17,7 +17,7 @@ jobs:
           # profile readme, remove the leading `#` to use them
           # GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
-          BLOCKS: ->
+          BLOCKS: ░▒▓█
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
