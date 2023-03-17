@@ -54,6 +54,8 @@
 
 <br>
 
+## Waka Stats :
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2032%20mins-blue)
 
@@ -141,7 +143,5 @@ JavaScript               1 repo              ██████░░░░░�
 <div align='center'>
 
 Credit: [Hafiz Abdiel](https://github.com/dlzcods)
-	<br>
-Last Edited on: 17/03/2023
 
 </div>
