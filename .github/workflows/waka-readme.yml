@@ -14,6 +14,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SECTION_NAME: waka
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them 
           SHOW_TITLE: "True"
