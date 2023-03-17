@@ -16,13 +16,13 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them 
-          SHOW_TITLE: "true"
-          SHOW_TIMEZONE: "true"
+          SHOW_TITLE: "True"
+          SHOW_TIMEZONE: "True"
           SYMBOL_VERSION: 1
           TIME_RANGE: all_time
-          SHOW_TIME: "true"
-          SHOW_MASKED_TIME: "true"
-          SHOW_COMMIT: "true"
-          SHOW_DAYS_OF_WEEK: "true"
-          SHOW_LINES_OF_CODE: "true"
+          SHOW_TIME: "True"
+          SHOW_MASKED_TIME: "True"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LINES_OF_CODE: "True"
           LANG_COUNT: 10
