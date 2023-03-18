@@ -57,7 +57,7 @@
 ## Waka Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-499-blue)
 
@@ -71,7 +71,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -128,7 +128,7 @@ JavaScript               1 repo              ██████░░░░░�
 
 
 
- Last Updated on 18/03/2023 03:15:57 UTC
+ Last Updated on 18/03/2023 03:36:14 UTC
 <!--END_SECTION:waka-->
 
 <br>
