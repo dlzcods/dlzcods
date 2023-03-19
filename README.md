@@ -69,7 +69,7 @@
  > 
 > 🏆 75 Contributions in the Year 2023
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
@@ -128,7 +128,7 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 19/03/2023 06:39:37 UTC
+ Last Updated on 19/03/2023 07:12:58 UTC
 <!--END_SECTION:waka-->
 
 <br>
