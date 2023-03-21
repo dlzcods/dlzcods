@@ -65,7 +65,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 14.5 kB Used in GitHub's Storage 
+> 📦 13.8 kB Used in GitHub's Storage 
  > 
 > 🏆 93 Contributions in the Year 2023
  > 
@@ -128,7 +128,7 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 21/03/2023 17:36:11 UTC
+ Last Updated on 21/03/2023 17:49:15 UTC
 <!--END_SECTION:waka-->
 
 <br>
