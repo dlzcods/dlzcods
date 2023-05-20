@@ -57,7 +57,7 @@
 ## Waka Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -102,13 +102,13 @@ Sunday                   10 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     1 hr 23 mins        █████████████████████████   100.00 % 
+HTML                     1 hr 51 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -123,7 +123,7 @@ PHP                      1 repo              █████░░░░░░�
 
 
 
- Last Updated on 20/05/2023 17:11:17 UTC
+ Last Updated on 20/05/2023 17:36:19 UTC
 <!--END_SECTION:waka-->
 
 <br>
