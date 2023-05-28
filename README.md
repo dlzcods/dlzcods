@@ -15,7 +15,7 @@
 <br>
 
 - 💡 I'm a self learner
-- 🌱 I’m currently learning **Laravel, Java**
+- 🌱 I’m currently learning **Laravel, PHP, Javascript**
 - 📫 How to reach me [hafd324@gmail.com](mailto:hafd324d@gmail.com)
 - 📃 I like to learn new thing
 
