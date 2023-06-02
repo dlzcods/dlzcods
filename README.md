@@ -57,11 +57,11 @@
 ## Waka Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-701.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-701.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -118,16 +118,17 @@ Windows                  7 hrs 39 mins       ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-C++                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Java                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-PHP                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C++                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Java                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+PHP                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
 
 
- Last Updated on 02/06/2023 12:28:59 UTC
+ Last Updated on 02/06/2023 12:59:55 UTC
 <!--END_SECTION:waka-->
 
 <br>
