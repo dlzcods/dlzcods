@@ -57,7 +57,7 @@
 ## Waka Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -67,7 +67,7 @@
 
 > 📦 82.8 kB Used in GitHub's Storage 
  > 
-> 🏆 106 Contributions in the Year 2023
+> 🏆 105 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -128,7 +128,7 @@ PHP                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 03/06/2023 10:13:38 UTC
+ Last Updated on 03/06/2023 10:36:15 UTC
 <!--END_SECTION:waka-->
 
 <br>
