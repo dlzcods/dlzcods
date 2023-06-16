@@ -25,16 +25,14 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 
-![Java](https://img.shields.io/badge/Java-FFFFFF.svg?style=for-the-badge&logo=java&logoColor=blue)
 ![PHP](https://img.shields.io/badge/PHP%20-FFFFFF.svg?style=for-the-badge&logo=php&logoColor=blue)
 ![Laravel](https://img.shields.io/badge/laravel-FFFFFF.svg?style=for-the-badge&logo=laravel&logoColor=blue)
 ![VS Code](https://img.shields.io/badge/VS%20Code-FFFFFF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-FFFFFF.svg?style=for-the-badge&logo=java&logoColor=blue)
 <br>
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-FFFFFF.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=blue)
-![Sublime Text](https://img.shields.io/badge/sublime_text-FFFFFF.svg?style=for-the-badge&logo=sublime-text&logoColor=blue)
 ![GitHub](https://img.shields.io/badge/github-FFFFFF.svg?style=for-the-badge&logo=github&logoColor=blue)
 <br>
-![Google](https://img.shields.io/badge/google-FFFFFF.svg?style=for-the-badge&logo=google&logoColor=blue)
 ![Markdown](https://img.shields.io/badge/markdown-FFFFFF.svg?style=for-the-badge&logo=markdown&logoColor=blue)
 ![Canva](https://img.shields.io/badge/Canva-FFFFFF.svg?style=for-the-badge&logo=Canva&logoColor=blue)
 
