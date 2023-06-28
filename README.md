@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">I'm Hafiz Abdiel </b></h1>
+<h1 align="center"><b>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">I'm Abdiel </b></h1>
 
 <h3 align="center"> Software Engineering Graduate from Purwokerto Central Java  </h3>
 
