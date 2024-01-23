@@ -100,13 +100,13 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-NetBeans                 1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in CSS** 
@@ -122,7 +122,7 @@ Java                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 23/01/2024 17:13:25 UTC
+ Last Updated on 23/01/2024 17:36:10 UTC
 <!--END_SECTION:waka-->
 
 <br>
