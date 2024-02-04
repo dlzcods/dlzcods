@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Abdiel </b></h1>
 
-<h3 align="center"> First-year Informatics Student  </h3>
+<h3 align="center"> First-year Informatics Student at Amikom Purwokerto University </h3>
 
 <div align='center'>
 	
@@ -26,15 +26,15 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 
 ![PHP](https://img.shields.io/badge/PHP%20-FFFFFF.svg?style=for-the-badge&logo=php&logoColor=blue)
+![Python](https://img.shields.io/badge/Python%20-FFFFFF.svg?style=for-the-badge&logo=python&logoColor=blue)
 ![Laravel](https://img.shields.io/badge/laravel-FFFFFF.svg?style=for-the-badge&logo=laravel&logoColor=blue)
 ![VS Code](https://img.shields.io/badge/VS%20Code-FFFFFF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-FFFFFF.svg?style=for-the-badge&logo=java&logoColor=blue)
 <br>
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-FFFFFF.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-FFFFFF.svg?style=for-the-badge&logo=java&logoColor=blue)
+![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-FFFFFF.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=blue)
 ![GitHub](https://img.shields.io/badge/github-FFFFFF.svg?style=for-the-badge&logo=github&logoColor=blue)
 <br>
 ![Markdown](https://img.shields.io/badge/markdown-FFFFFF.svg?style=for-the-badge&logo=markdown&logoColor=blue)
-![Canva](https://img.shields.io/badge/Canva-FFFFFF.svg?style=for-the-badge&logo=Canva&logoColor=blue)
 
 <br>
 <br>
@@ -55,7 +55,7 @@
 ## Waka Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -125,7 +125,7 @@ C++                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 04/02/2024 12:44:14 UTC
+ Last Updated on 04/02/2024 12:22:56 UTC
 <!--END_SECTION:waka-->
 
 <br>
