@@ -25,12 +25,12 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 
-![PHP](https://img.shields.io/badge/PHP%20-FFFFFF.svg?style=for-the-badge&logo=php&logoColor=blue)
+![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=blue)
 ![Python](https://img.shields.io/badge/Python%20-FFFFFF.svg?style=for-the-badge&logo=python&logoColor=blue)
 ![Laravel](https://img.shields.io/badge/laravel-FFFFFF.svg?style=for-the-badge&logo=laravel&logoColor=blue)
 ![VS Code](https://img.shields.io/badge/VS%20Code-FFFFFF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 <br>
-![Java](https://img.shields.io/badge/Java-FFFFFF.svg?style=for-the-badge&logo=java&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=blue)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-FFFFFF.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=blue)
 ![GitHub](https://img.shields.io/badge/github-FFFFFF.svg?style=for-the-badge&logo=github&logoColor=blue)
 <br>
