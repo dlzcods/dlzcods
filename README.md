@@ -55,7 +55,7 @@
 ## Waka Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
@@ -126,7 +126,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/03/2024 05:14:54 UTC
+ Last Updated on 16/03/2024 05:36:13 UTC
 <!--END_SECTION:waka-->
 
 <br>
