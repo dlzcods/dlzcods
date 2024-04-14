@@ -55,6 +55,8 @@
 ## Waka Stats :
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2021%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-735.7%20thousand%20lines%20of%20code-blue)
@@ -65,9 +67,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 11 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -118,7 +120,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2024 22:21:51 UTC
+ Last Updated on 14/04/2024 23:43:33 UTC
 <!--END_SECTION:waka-->
 
 <br>
