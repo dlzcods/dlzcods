@@ -55,7 +55,7 @@
 ## Waka Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -100,14 +100,14 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   3 hrs 44 mins       █████████████████████████   100.00 % 
+Python                   3 hrs 21 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       ███████████████░░░░░░░░░░   61.23 % 
-Jupyterlab               1 hr 26 mins        ██████████░░░░░░░░░░░░░░░   38.77 % 
+Jupyterlab               1 hr 58 mins        ███████████████░░░░░░░░░░   58.80 % 
+VS Code                  1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   41.20 % 
 
 💻 Operating System: 
-Windows                  3 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -123,7 +123,7 @@ TSQL                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2024 17:10:42 UTC
+ Last Updated on 29/05/2024 17:34:32 UTC
 <!--END_SECTION:waka-->
 
 <br>
