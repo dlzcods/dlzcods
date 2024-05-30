@@ -55,7 +55,7 @@
 ## Waka Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -64,6 +64,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 212.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 61 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -121,7 +123,7 @@ TSQL                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2024 09:11:55 UTC
+ Last Updated on 30/05/2024 09:34:12 UTC
 <!--END_SECTION:waka-->
 
 <br>
