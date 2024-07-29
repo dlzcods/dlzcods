@@ -55,7 +55,7 @@
 ## Waka Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
@@ -65,9 +65,11 @@
 
 > 📦 214.8 kB Used in GitHub's Storage 
  > 
+> 🏆 115 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
@@ -122,7 +124,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2024 09:12:34 UTC
+ Last Updated on 29/07/2024 09:34:17 UTC
 <!--END_SECTION:waka-->
 
 <br>
