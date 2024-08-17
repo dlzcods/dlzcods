@@ -55,7 +55,7 @@
 ## Waka Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -122,7 +122,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2024 02:34:31 UTC
+ Last Updated on 17/08/2024 03:11:55 UTC
 <!--END_SECTION:waka-->
 
 <br>
