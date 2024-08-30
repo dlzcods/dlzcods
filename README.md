@@ -55,7 +55,7 @@
 ## Waka Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -64,8 +64,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 226.4 kB Used in GitHub's Storage 
- > 
-> 🏆 168 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -100,14 +98,16 @@ Sunday                   39 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           5 hrs 53 mins       █████████████████████████   99.75 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Blade Template           6 hrs 58 mins       ████████████████████████░   96.91 % 
+PHP                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 53 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -123,7 +123,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2024 17:11:38 UTC
+ Last Updated on 30/08/2024 17:36:03 UTC
 <!--END_SECTION:waka-->
 
 <br>
