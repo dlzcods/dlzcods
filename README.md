@@ -55,7 +55,7 @@
 ## Waka Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -64,6 +64,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 226.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 168 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -123,7 +125,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2024 16:41:27 UTC
+ Last Updated on 31/08/2024 17:09:27 UTC
 <!--END_SECTION:waka-->
 
 <br>
