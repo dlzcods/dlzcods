@@ -65,8 +65,6 @@
 
 > 📦 226.4 kB Used in GitHub's Storage 
  > 
-> 🏆 168 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 23 Public Repositories 
@@ -126,7 +124,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2024 22:12:24 UTC
+ Last Updated on 31/08/2024 22:36:44 UTC
 <!--END_SECTION:waka-->
 
 <br>
