@@ -100,15 +100,13 @@ Sunday                   39 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           1 hr 51 mins        ████████████████████░░░░░   80.20 % 
-PHP                      27 mins             █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -124,7 +122,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2024 17:10:55 UTC
+ Last Updated on 18/09/2024 17:36:21 UTC
 <!--END_SECTION:waka-->
 
 <br>
