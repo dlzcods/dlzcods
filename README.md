@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Abdiel </b></h1>
 
-<h3 align="center"> First-year Informatics Student at Amikom Purwokerto University </h3>
+<h3 align="center"> Second-year Informatics Student at Amikom Purwokerto University </h3>
 
 <div align='center'>
 	
