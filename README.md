@@ -55,7 +55,7 @@
 ## Waka Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
@@ -64,6 +64,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 230.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 260 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -98,13 +100,13 @@ Sunday                   57 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -120,7 +122,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2024 17:12:44 UTC
+ Last Updated on 25/11/2024 17:39:06 UTC
 <!--END_SECTION:waka-->
 
 <br>
