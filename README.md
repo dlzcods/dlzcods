@@ -65,8 +65,6 @@
 
 > 📦 230.2 kB Used in GitHub's Storage 
  > 
-> 🏆 260 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 26 Public Repositories 
@@ -100,13 +98,13 @@ Sunday                   57 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -122,7 +120,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2024 17:12:02 UTC
+ Last Updated on 02/12/2024 17:39:05 UTC
 <!--END_SECTION:waka-->
 
 <br>
