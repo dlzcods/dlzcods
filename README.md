@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Abdiel </b></h1>
 
-<h3 align="center"> Second-year Informatics Student at Amikom Purwokerto University </h3>
+<h3 align="center"> Second year Informatics Student at Amikom Purwokerto University </h3>
 
 <div align='center'>
 	
@@ -15,9 +15,8 @@
 <br>
 
 - 💡 I'm a self learner
-- 🌱 I’m currently learning **Python, Machine Learning, SQL**
-- 📫 How to reach me [hafd324@gmail.com](mailto:hafd324d@gmail.com)
-- 📃 I like to learn new thing
+- 🌱 I’m currently learning **Python** and **Machine Learning** at **DBS Foundation Coding Camp 2024 Machine Learning Engineer Path**
+- 📫 How to reach me [hafd324@gmail.com](mailto:hafd324d@gmail.com) or [Muhammad Abdiel Al Hafiz](https://www.linkedin.com/in/muhammad-abdiel-al-hafiz)
 
 <br><br>
 
