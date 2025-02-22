@@ -62,8 +62,6 @@
 
 > 📦 285.5 kB Used in GitHub's Storage 
  > 
-> 🏆 55 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 29 Public Repositories 
@@ -97,13 +95,13 @@ Sunday                   58 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-YAML                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -119,7 +117,7 @@ Solidity                 2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/02/2025 17:11:18 UTC
+ Last Updated on 22/02/2025 17:36:05 UTC
 <!--END_SECTION:waka-->
 
 <br>
