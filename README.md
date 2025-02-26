@@ -52,7 +52,7 @@
 ## Waka Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -61,6 +61,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 285.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 55 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -121,7 +123,7 @@ Solidity                 2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2025 23:35:08 UTC
+ Last Updated on 26/02/2025 00:59:54 UTC
 <!--END_SECTION:waka-->
 
 <br>
