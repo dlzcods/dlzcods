@@ -54,13 +54,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 287.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 125 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -117,7 +119,7 @@ Solidity                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2025 21:36:27 UTC
+ Last Updated on 01/04/2025 22:13:27 UTC
 <!--END_SECTION:waka-->
 
 <br>
