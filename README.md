@@ -97,13 +97,13 @@ Sunday                   79 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -119,7 +119,7 @@ Solidity                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2025 17:14:13 UTC
+ Last Updated on 01/04/2025 17:39:05 UTC
 <!--END_SECTION:waka-->
 
 <br>
