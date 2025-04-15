@@ -52,7 +52,7 @@
 ## Waka Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
@@ -97,13 +97,14 @@ Sunday                   80 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     10 mins             ██████████████████░░░░░░░   73.26 % 
+JSON                     3 mins              ███████░░░░░░░░░░░░░░░░░░   26.74 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -119,7 +120,7 @@ Solidity                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/04/2025 17:13:41 UTC
+ Last Updated on 15/04/2025 17:39:27 UTC
 <!--END_SECTION:waka-->
 
 <br>
