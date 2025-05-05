@@ -52,7 +52,7 @@
 ## Waka Stats :
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -119,7 +119,7 @@ Solidity                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2025 08:20:19 UTC
+ Last Updated on 05/05/2025 08:47:11 UTC
 <!--END_SECTION:waka-->
 
 <br>
