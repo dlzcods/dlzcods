@@ -97,15 +97,13 @@ Sunday                   80 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Dart                     2 hrs 36 mins       ████████████████████████░   95.94 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 42 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 42 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -121,7 +119,7 @@ Solidity                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2025 17:13:55 UTC
+ Last Updated on 13/05/2025 17:40:32 UTC
 <!--END_SECTION:waka-->
 
 <br>
