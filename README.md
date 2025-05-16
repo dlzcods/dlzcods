@@ -62,6 +62,8 @@
 
 > 📦 288.7 kB Used in GitHub's Storage 
  > 
+> 🏆 153 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 29 Public Repositories 
@@ -117,7 +119,7 @@ Solidity                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2025 20:16:16 UTC
+ Last Updated on 16/05/2025 20:40:26 UTC
 <!--END_SECTION:waka-->
 
 <br>
