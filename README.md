@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Abdiel </b></h1>
 
-<h3 align="center"> Second year Informatics Student at Amikom Purwokerto University </h3>
+<h3 align="center"> AI Researcher from Indonesia </h3>
 
 <div align='center'>
 	
@@ -46,81 +46,8 @@
 </div>
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 <br>
 
-## Waka Stats :
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2040%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 288.8 kB Used in GitHub's Storage 
- > 
-> 🏆 160 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 23 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                199 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-🌆 Daytime                354 commits         █████████░░░░░░░░░░░░░░░░   34.77 % 
-🌃 Evening                438 commits         ███████████░░░░░░░░░░░░░░   43.03 % 
-🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Tuesday                  138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Wednesday                111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Thursday                 160 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Friday                   77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Saturday                 386 commits         █████████░░░░░░░░░░░░░░░░   37.92 % 
-Sunday                   83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Solidity                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-```
-
-
-
-
- Last Updated on 21/05/2025 01:08:24 UTC
-<!--END_SECTION:waka-->
-
-<br>
-<br>
