@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Abdiel </b></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=AI+is+not+magic...;...but+maybe+it's+me+🧠✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=AI+whispers+....;....+I+translate+🗣️🧠" />
 </p>
 
 <h3 align="center">
@@ -18,9 +18,9 @@
 - ✉️: [hafd324@gmail.com](mailto:hafd324d@gmail.com) or [Muhammad Abdiel Al Hafiz](https://www.linkedin.com/in/muhammad-abdiel-al-hafiz)
 - my journey, story, and project could you read [here](https://hafizabdiel.framer.website/)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<!-- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 
 ![Python](https://img.shields.io/badge/Python%20-FFFFFF.svg?style=for-the-badge&logo=python&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=blue)
