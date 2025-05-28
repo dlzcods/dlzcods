@@ -1,22 +1,22 @@
 
 <h1 align="center"><b>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Abdiel </b></h1>
 
-<h3 align="center"> AI Researcher from Indonesia </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=AI+is+not+magic...;...but+maybe+it's+me+🧠✨" />
+</p>
 
-<div align='center'>
-	
-![](https://komarev.com/ghpvc/?username=dlzcods&style=for-the-badge)
-	
-</div>
-<br>
+<h3 align="center">
+  <b>ML Engineer</b> | <b>AI Researcher</b> | <b>Informatics Student</b>
+</h3>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+---
 
-<br>
+<!-- visitor -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dlzcods&label=Profile%20views&color=0e75b6&style=flat" alt="dlzcods" /> </p>
 
-- 💡 I'm a self learner
-- 🌱 I’m currently learning **Python** and **Machine Learning** at **DBS Foundation Coding Camp 2024 Machine Learning Engineer Path**
-- 📫 How to reach me [hafd324@gmail.com](mailto:hafd324d@gmail.com) or [Muhammad Abdiel Al Hafiz](https://www.linkedin.com/in/muhammad-abdiel-al-hafiz)
+- 🕵🏻 Currently exploring **OCR** and **AI Agents**
+- ✉️: [hafd324@gmail.com](mailto:hafd324d@gmail.com) or [Muhammad Abdiel Al Hafiz](https://www.linkedin.com/in/muhammad-abdiel-al-hafiz)
+- my journey, story, and project could you read [here](https://hafizabdiel.framer.website/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -35,7 +35,7 @@
 
 <br>
 <br>
-<br> -->
+<br> 
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -48,6 +48,5 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-
 <br>
-
+-->
