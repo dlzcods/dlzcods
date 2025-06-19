@@ -15,8 +15,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlzcods&label=Profile%20views&color=0e75b6&style=flat" alt="dlzcods" /> </p>
 
 - 🕵🏻 Currently exploring **OCR** and **AI Agents**
-- ✉️: [hafd324@gmail.com](mailto:hafd324d@gmail.com) or [Muhammad Abdiel Al Hafiz](https://www.linkedin.com/in/muhammad-abdiel-al-hafiz)
-- my journey, story, and project could you read [here](https://hafizabdiel.framer.website/)
+- ✉️: [hafiz@abdielz.tech](mailto:hafiz@abdielz.tech) or [Muhammad Abdiel Al Hafiz](https://www.linkedin.com/in/muhammad-abdiel-al-hafiz)
+- My journey, story, and project could you read [here](https://abdielz.tech)
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
