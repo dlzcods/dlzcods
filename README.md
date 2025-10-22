@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center">
-  <b>ML Engineer</b> | <b>AI Researcher</b> | <b>Informatics Student</b>
+  <b>AI Engineer</b> | <b>Informatics Student</b>
 </h3>
 
 ---
