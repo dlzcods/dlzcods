@@ -14,7 +14,7 @@
 <!-- visitor -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlzcods&label=Profile%20views&color=0e75b6&style=flat" alt="dlzcods" /> </p>
 
-- 🕵🏻 Currently exploring **OCR** and **AI Agents**
+- 🕵🏻 Currently exploring **RAG** and **AI Agents**
 - ✉️: [hafiz@abdielz.tech](mailto:hafiz@abdielz.tech) or [Muhammad Abdiel Al Hafiz](https://www.linkedin.com/in/muhammad-abdiel-al-hafiz)
 - My journey, story, and project could you read [here](https://abdielz.tech)
 
